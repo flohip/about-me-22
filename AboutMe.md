@@ -7,9 +7,9 @@ I have one younger brother.
 4. ordered
 5. list
 
-*and
-*unordered
-*list
+-and
+-unordered
+-list
 
 
 
